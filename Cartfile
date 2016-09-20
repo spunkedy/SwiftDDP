@@ -1,5 +1,5 @@
+github "spunkedy/SwiftWebSocket" "1e2f8572be59d0068e8346577a393bba8b8cfec9"
 github "krzyzanowskim/CryptoSwift"
 github "Quick/Nimble"            # Not building with Swift 2.2
 github "Quick/Quick"             # Not building with Swift 2.2
-github "tidwall/SwiftWebSocket"
 github "DaveWoodCom/XCGLogger"
